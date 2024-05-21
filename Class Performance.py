@@ -1,4 +1,4 @@
-link: https://platform.stratascratch.com/coding/10310-class-performance?code_type=2
+#link: https://platform.stratascratch.com/coding/10310-class-performance?code_type=2
 # Import your libraries
 import pandas as pd
 
