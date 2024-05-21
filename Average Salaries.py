@@ -1,3 +1,4 @@
+#link : https://platform.stratascratch.com/coding/9917-average-salaries?code_type=2
 import pandas as pd
 import numpy as np
 # Start writing code
